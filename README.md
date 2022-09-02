@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Topic 1
 
-qwerty is q.
+`"qwerty"` is not `"q"`.
 
 ---
 
