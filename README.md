@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vibro211 30 yo guy from your favorite country
+- 👋 Hi, I’m a 30 yo guy from your favorite country
 - 👀 I’m interested in the spreading of serenity, love and peace on our lovely, beautiful planet. But jerks disagree... Is that too much? 
 - 🌱 I’m currently learning python, sql and to be a good guy. 
 - 💞️ I’m looking to collaborate on educational stuff 
