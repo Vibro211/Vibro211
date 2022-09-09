@@ -5,8 +5,6 @@
 - 📫 How to reach me https://t.me/vibro211 
 
 
-This is a spoiler:
-
 <details>
 <summary>Click me</summary>
 
